@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\HIW Janna.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\HIW Janna.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\HIW Janna.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\EloBuddy.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\SharpDX.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\obj\Debug\HIW Janna.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\obj\Debug\HIW Janna.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\HIW Janna\HIW Janna\obj\Debug\HIW Janna.pdb
